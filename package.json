@@ -1,0 +1,26 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radioactive0238/Node-Socket-Chat-app.git"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radioactive0238/Node-Socket-Chat-app/issues"
+  },
+  "homepage": "https://github.com/radioactive0238/Node-Socket-Chat-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.4"
+  }
+}
